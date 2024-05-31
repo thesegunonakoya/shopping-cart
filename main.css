@@ -12,6 +12,15 @@ body {
     margin: 0;
 }
 
+.item-name {
+    font-weight: bold;
+}
+
+.delete-btn {
+    color: #f00;
+    font-weight: normal
+}
+
 .cart {
     background-color: #fff;
     padding: 20px;
@@ -70,6 +79,8 @@ h1 {
 }
 
 .total {
+    color: green;
+    font-weight: bold;
     text-align: right;
     font-size: 1.2em;
     margin-top: 20px;
