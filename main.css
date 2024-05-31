@@ -1,5 +1,9 @@
+* {
+    font-family: "Space Mono", monospace;
+}
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Space Mono", monospace;
     background-color: #f8f8f8;
     display: flex;
     justify-content: center;
